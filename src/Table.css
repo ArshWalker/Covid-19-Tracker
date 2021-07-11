@@ -1,0 +1,21 @@
+.table {
+  margin-top: 20px;
+  overflow: scroll;
+  height: 400px;
+  color: rgb(21, 2, 27);
+}
+
+.table tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table td {
+  padding: 0.5rem;
+}
+.table tr:nth-of-type(odd) {
+  background-color: #ecafbc;
+}
+.table tr:nth-of-type(even) {
+  background-color: #66fcf1;
+}
