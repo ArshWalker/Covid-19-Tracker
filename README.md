@@ -1,4 +1,43 @@
-# Getting Started with Create React App
+# 🦠 COVID-19 TRACKER APPLICATION 🦠
+  _This Project is build using ReactJS. This Web Application is fetching the data from an API (https://disease.sh/v3/covid-19/countries)._
+  
+  This is an ```Covid-19 Tracker``` which can display information about the _covid-19 cases, recovery & deaths._ Displaying that information in the form of _Table, Line graph and also the World Map._
+  
+  <p align="center">
+  <a href = "https://covid-19-tracker-app-ccc09.web.app/"><img src="https://www.statnews.com/wp-content/uploads/2020/03/corona-tracker-social-image-1-1024x576.jpg" height="100px" width="300px"></a>
+  </p>
+  
+  <p align="center">⬆️ <i>Click the Picture to visit the website.</i> ⬆️</p>
+  
+  
+  ## 📌 Major Concepts Used
+   
+   ``` 
+   React Hooks, React Components, MATERIAL UI, React State, Flex Box, leaflet and ES7.
+   ```
+    
+    
+    
+  ## ➕ Dependencies need to be Installed:
+  ``` 
+    npm i
+    
+      1. @material-ui/core
+      2. react-chartjs-2 chart.js
+      3. leaflet
+      4. react-leaflet
+      5. numeral
+  ```
+ 
+  <h2>👽 Sneak-Peak 👽</h2>
+  <i>This website is Deploy using Firebase!!!</i>
+  
+  ![image](https://user-images.githubusercontent.com/54627391/125181211-433f8800-e220-11eb-8c37-215ee3e1dcfb.png)
+
+ 
+# 📚 Documentation 📚
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
