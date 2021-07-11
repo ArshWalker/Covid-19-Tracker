@@ -1,7 +1,7 @@
 # 🦠 COVID-19 TRACKER APPLICATION 🦠
   _This Project is build using ReactJS. This Web Application is fetching the data from an API (https://disease.sh/v3/covid-19/countries)._
   
-  This is an ```Covid-19 Tracker``` which can display information about the _covid-19 cases, recovery & deaths._ Displaying that information in the form of _Table, Line graph and also the World Map._
+  This is a ```Covid-19 Tracker``` which can display information about the _covid-19 cases, recovery & deaths._ Displaying that information in the form of _Table, Line graph and also the World Map._
   
   <p align="center">
   <a href = "https://covid-19-tracker-app-ccc09.web.app/"><img src="https://www.statnews.com/wp-content/uploads/2020/03/corona-tracker-social-image-1-1024x576.jpg" height="100px" width="300px"></a>
@@ -30,7 +30,7 @@
   ```
  
   <h2>👽 Sneak-Peak 👽</h2>
-  <i>This website is Deploy using Firebase!!!</i>
+  <i>This website is Deployed using Firebase!!!</i>
   
   ![image](https://user-images.githubusercontent.com/54627391/125181211-433f8800-e220-11eb-8c37-215ee3e1dcfb.png)
 
