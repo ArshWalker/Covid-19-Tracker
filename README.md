@@ -34,6 +34,19 @@
   
   ![image](https://user-images.githubusercontent.com/54627391/125181211-433f8800-e220-11eb-8c37-215ee3e1dcfb.png)
 
+
+## ❤️ Repository Author ❤️
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ArshWalker">
+            <img src="https://avatars.githubusercontent.com/u/54627391?s=400&u=a1fa0290a15cebb59c37c13a3bcde491b6c9458a&v=4" width="200px;" alt="" style="border-radius:50%"/>                 <br />
+            <b>ArshWalker</b>
+            </a><br />
+            <a href="https://github.com/ArshWalker/Covid-19-Tracker.git" title="Coding">💻</a>
+        </td>
+    </tr>
+ </table>
  
 # 📚 Documentation 📚
 
